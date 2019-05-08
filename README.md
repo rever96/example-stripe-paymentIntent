@@ -1,5 +1,9 @@
 # TestStripe
 
-run node server.js
+thats an example of how use Stripe PaymentIntents
+
+run ```node server.js```
+
 in a separate terminal
-run ng serve --open --port 4100
+
+run ```ng serve --open --port 4100```
